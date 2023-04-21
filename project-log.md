@@ -9,14 +9,14 @@
 
 ## pitch
 - My research topic is: Beyond Toxics 
-- My research question is:
+- My research question is: When did Eugene wetlands become an issue and why is it targeted in bipoc communities. 
 - I expect to work with the following *materials*: Data from the Beyond Toxics website, Data from the local libraies, Getting stories or news articles from families who have been affected in Eugene 
-- I plan to *process* these materials by:
-- I plan to *present* these materials by: 
-- My final submission will take this form: 
-- This project is intended to engage these audiences and communities: People who live in Eugene, People with families in Eugene and leaders in Oregon.
-- I bring the following existing knowledge and/or skills to the project: Researching a lot of information in ENG 250. Getting to read and hear a lot of the stories about people who have been affected by this issue in Eugene. Looking into the background of the issues by contacting libraies and people with information on the issue. 
-- In order to do this project, I need to learn: More abou the issue itself. I need to find more metadata on the project and what Beyond Toxics plans to do. 
+- I plan to *process* these materials by: Using data from the  ENG 470 class last spring and continue on their project of the wetland story map and looking into the history of the issue in eugene.
+- I plan to *present* these materials by: Building a webiste with an interactive timeline showing when and who took over the land in west eugene and began creating a toxic area even though there are families that live there. 
+- My final submission will take this form: A github website including an interactive map with stories educating the significance. 
+- This project is intended to engage these audiences and communities: People who live in Eugene, People with families in Eugene and leaders in Oregon. People who look into climate change, unhealthy living situations and enviromental issues. 
+- I bring the following existing knowledge and/or skills to the project: Researching a lot of information in ENG 250. Getting to read and hear a lot of the stories about people who have been affected by this issue in Eugene. Looking into the background of the issues by contacting libraies and people with information on the issue. What the leaders of this project have already done and what they plan to do. 
+- In order to do this project, I need to learn: More about the issue itself. I need to find more metadata on the project and what Beyond Toxics plans to do. 
 
 ---
 # week 4 
