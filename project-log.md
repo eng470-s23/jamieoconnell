@@ -32,13 +32,15 @@
 - *at least four peer-reviewed scholarly sources framing and informing your thinking: articles, chapters, or books published by university or academic presses, or excerpts from academic reference sources (note that being deposited in Scholars' Bank does *not* mean a source is peer reviewed.)*
 - *the other 2+ sources may be primary, scholarly, popular, journalistic, governmental/policy documents, datasets, etc.*
 
-1. source #1
-2. source #2
-3. source #3
-4. source #4
-5. source #5
-6. source #6
-7. source #7
+1. Primary: https://learn-static.github.io/eng-470/item.html?id=sunday-oregonian_racial-problem_1952
+2. Scholarly: https://scholarsbank.uoregon.edu/xmlui/handle/1794/9976
+3. Scholarly: (Book) Poverty, race, and community organization : social and environmental justice in Eugene, Oregon. Pak, Maylian Joan, 1978-; University of Oregon; 2005
+4. Scholarly: (Book) Is it just sustainability? : the political-economy of urban sustainability, economic development and social justice
+Skinner, Lara Renee.; University of Oregon; 2010
+5. Scholarly: The urban development of West Eugene, Oregon
+Mehnert, Paul Jeffrey, 1957-; University of Oregon; 1981
+6. https://mnchexhibits.uoregon.edu/racing-to-change/pre-civil-rights/timeline/1930-1950/
+7. https://mnchexhibits.uoregon.edu/racing-to-change/pre-civil-rights/timeline/1930-1950/
 
 ## reading plan
 - reading plan goes here
