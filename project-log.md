@@ -24,7 +24,11 @@
 - notes go here
 
 ## search log
-- search log goes here
+- List of sources searched: Google Scholary, UO Libraries, Enviormental Injustice website 
+- Date of search: 4/26,4/27,4/28
+- Search strategy: Looking up enviormental justice, eugene oregon, history, people of color, racism in oregon. Found related articles, newspapers, or books that touch on the subject of enviormental justice and racism being an issue. I also looked into the history of Eugene and when people of color moved to Eugene and how they were affected. 
+- Total number of results found 3,853
+- 
 
 ## bibliography
 *The bibliography should include at least seven (7) sources:*
@@ -43,7 +47,9 @@ Mehnert, Paul Jeffrey, 1957-; University of Oregon; 1981
 7. https://mnchexhibits.uoregon.edu/racing-to-change/pre-civil-rights/timeline/1930-1950/
 
 ## reading plan
-- reading plan goes here
+- Monday: Read from 11-2
+- Wednesday: Read from 11-2 
+- Friday: Read from 11-2 
 
 ---
 # week 5
