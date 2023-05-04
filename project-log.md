@@ -1,11 +1,9 @@
 # week 2
-## notes
-- notes go here
+
 
 ---
 # week 3
-## notes
-- notes go here
+
 
 ## pitch
 - My research topic is: Beyond Toxics 
@@ -20,8 +18,7 @@
 
 ---
 # week 4 
-## notes
-- notes go here
+
 
 ## search log
 - List of sources searched: Google Scholary, UO Libraries, Enviormental Injustice website 
@@ -31,10 +28,7 @@
 - 
 
 ## bibliography
-*The bibliography should include at least seven (7) sources:*
-- *at least one primary (literary or archival) source or dataset you are studying or examining;* 
-- *at least four peer-reviewed scholarly sources framing and informing your thinking: articles, chapters, or books published by university or academic presses, or excerpts from academic reference sources (note that being deposited in Scholars' Bank does *not* mean a source is peer reviewed.)*
-- *the other 2+ sources may be primary, scholarly, popular, journalistic, governmental/policy documents, datasets, etc.*
+
 
 1. Primary: https://learn-static.github.io/eng-470/item.html?id=sunday-oregonian_racial-problem_1952
 2. Scholarly: https://scholarsbank.uoregon.edu/xmlui/handle/1794/9976
