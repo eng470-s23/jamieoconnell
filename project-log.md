@@ -50,17 +50,18 @@ Mehnert, Paul Jeffrey, 1957-; University of Oregon; 1981
 ## notes
 - notes go here
 
-## research question
+## research question 
+How did West Eugene get to the Environmentally injustice place it is in today?
 
 ## annotated bibliography
-*Each annotation should include:*
-- *a full citation in Chicago, MLA, APA, or AP style (or another style appropriate to your discipline, with approval)*
-- *a 4-5 sentence annotation summarizing the main ideas and content of the piece and discussing how you plan to use it for your project.*
 
 ### source 1 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Vitus , Stephanie. “The Role of the Civil Rights Movement in Oregon.” Scholarsbank, 10 Dec. 2003, https://scholarsbank.uoregon.edu/xmlui/handle/1794/371. 
+
+- summary: In Stephanie Vitus's paper she gives researches the background history of the racism that lives in Oregon. She goes into detail about Oregon during the civil rights movement as well as where Oregon stood in 1844 when slavery was outlawed. Vitus goes through the years of racism in Oregon and how the state acted during the civil rights movement. Vitus talks about citizens in Oregon, Political leaders, and even The Univeristy of Oregon and how they all reacted to the racism in this state. 
+
+- potential use for project: This paper gives me a summarized background of the racism in Oregon and where it started. As my project will touch on the topic of racism in Oregon as a whole and how it ended up in Eugene and turned into toxic living environment, Vitus’s paper gives me a lot of history and explains it in a simple way but also gets the message across. Vitus uses dates and quotes from various audiences that give much support to the paper.
+
 
 ### source 2 annotation
 - citation: 
