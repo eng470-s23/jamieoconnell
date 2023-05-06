@@ -48,7 +48,7 @@ Mehnert, Paul Jeffrey, 1957-; University of Oregon; 1981
 ---
 # week 5
 ## notes
-- notes go here
+- I still have so many aritcles and short newspapers that I have found helpful and I am going to eventually use in my project. These were the main three I am researching currently and taking the most information from. I have decided to focus on the timeline of Oregon's racism to where it is today and how it affects living situations in Eugene. Hence the beyond toxics project.
 
 ## research question 
 How did West Eugene get to the Environmentally injustice place it is in today?
@@ -64,14 +64,18 @@ How did West Eugene get to the Environmentally injustice place it is in today?
 
 
 ### source 2 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Pak, Maylian Joan. Poverty, Race, and Community Organization: Social and Environmental Justice in Eugene, Oregon. University of Oregon, 2005.
+ 
+- summary:  In Maylian Pak’s book she touches on the issues of Enviormnetla Justice and it's connection  to Race. Pak goes into the issues of Environmental Justice not only in Eugene, Oregon but where it started and how it's an issue all over the world. In her book Pak brings up the political side of fighting for environmental justice and why it is so hard to do in lower-income areas.
+ 
+- potential use for project: I could use this in my project because of all the information that Pak gives to research on how long Eugene has been fighting for environmental justice. Pak goes into the laws that have or have not been passed and I have not found a lot of information on the political side of environmental justice and how it connects to Eugene. As I am researching my project I need to know why Eugene is struggling so hard to fight for this. This goes more into the issues of toxic waste and why it is unsafe. I have a lot of data about Eugene and its racism but I needed more information on the issues of toxic waste and its connections to poverty.   
 
 ### source 3 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Beckner, Chrisanne. “University of Oregon Libraries.” Cultural Demolition: What Was Lost When Eugene Razed Its First Black Neighborhood?, University of Oregon, 1 Sept. 2009, https://scholarsbank.uoregon.edu/xmlui/handle/1794/9976. 
+
+- summary: In Chrisanne Becker's thesis, he goes into what changed in Eugene, Oregon when the city razed its first and only black neighborhood. Becker goes into the 1940's and gives researches all of the information on what eugene did to these black neighborhoods and how they treated families. Becker touches on the state and cities history with racism and brings in stories of families and local places in Eugene that locals today have no idea about the events that took place in their backyard. 
+
+- potential use for project: For Beckers piece I think this will help me undercover a lot of what happened in the fourties. The horrific events that took place during this time are all in locations that I am researching in other parts of my project. I am able to read about where these families had to go and how that plays a role into what Eugene is today. 
 
 ---
 # week 6
