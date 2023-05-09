@@ -66,7 +66,7 @@ How did West Eugene get to the Environmentally injustice place it is in today?
 ### source 2 annotation
 - citation: Pak, Maylian Joan. Poverty, Race, and Community Organization: Social and Environmental Justice in Eugene, Oregon. University of Oregon, 2005.
  
-- summary:  In Maylian Pak’s book she touches on the issues of Enviormnetla Justice and it's connection  to Race. Pak goes into the issues of Environmental Justice not only in Eugene, Oregon but where it started and how it's an issue all over the world. In her book Pak brings up the political side of fighting for environmental justice and why it is so hard to do in lower-income areas.
+- summary:  In Maylian Pak’s book she touches on the issues of Enviormental Justice and it's connection  to Race. Pak goes into the issues of Environmental Justice not only in Eugene, Oregon but where it started and how it's an issue all over the world. In her book Pak brings up the political side of fighting for environmental justice and why it is so hard to do in lower-income areas.
  
 - potential use for project: I could use this in my project because of all the information that Pak gives to research on how long Eugene has been fighting for environmental justice. Pak goes into the laws that have or have not been passed and I have not found a lot of information on the political side of environmental justice and how it connects to Eugene. As I am researching my project I need to know why Eugene is struggling so hard to fight for this. This goes more into the issues of toxic waste and why it is unsafe. I have a lot of data about Eugene and its racism but I needed more information on the issues of toxic waste and its connections to poverty.   
 
