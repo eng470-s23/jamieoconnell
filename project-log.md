@@ -85,9 +85,9 @@ How did West Eugene get to the Environmentally injustice place it is in today?
 ## annotated bibliography, continued
 
 ### source 4 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Rethinking the Environmental Impacts of Population, Affluence And ..., www.jstor.org/stable/24706840?newaccount=true. Accessed 10 May 2023. 
+- summary: Thomas Dietz and Eugene A. Rosa tell researchers about the impacts of enviromental issues and how we can understand the connection between population, resources, and enviormental impacts. They go into research about what these connections are and how researches can focus on anthropogenic enviornmental change. What the connections are between population and enviornmental research is explained in this chapter. They talk about the approaches that are taken to get the data to provide to researchers. 
+- potential use for project: My use of this chapter is connecting the population impacts to enviormental impacts. The authors and researches of this chapter go into detail on why exactly the numbers connect and how it affects the population. As my research is on environmental justice and how it impacts lower income, poc neighborhoods, the data collected from this chapter can be used in my project to make sense of why these connections have such abig impact. 
 
 ### source 5 annotation
 - citation: 
