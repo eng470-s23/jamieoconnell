@@ -110,7 +110,7 @@ How did West Eugene get to the Environmentally injustice place it is in today?
 ### contribution
 *Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
 
-- With this project I need to make sure I read all of my articles, books, and thesis's correctly and gather the information given in a correct way. At the end of the project I hope to create a interactive map/timeline showing Oregons history. For this I need to look into the kinglab.com website and figure out the correct and best way to make this timeline. I will probably use photos in the timeline so I need to confirm getting access to all of the photos I am going to use, mainly areas in Eugene that are significant to my project. Who will I contact on the photo permission? Should I take the photos of these areas or gather them from online sources? What is easier? I am using data from ENG 250 last year and have a lot of information on this project from that. I may plan on adding onto the beyond toxic github created by students last year. Is that even possible? Do i need to reach out to them? Regarding my timeline, I want to make a story map. Should I use storymaps.com?
+- 
 
 ### methods
 *What tools and methods will you use, and why are those the best technologies for your purposes?*
@@ -125,7 +125,7 @@ How did West Eugene get to the Environmentally injustice place it is in today?
 ### dependencies and resources
 *What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
 
-- respond here 
+- With this project I need to make sure I read all of my articles, books, and thesis's correctly and gather the information given in a correct way. At the end of the project I hope to create a interactive map/timeline showing Oregons history. For this I need to look into the kinglab.com website and figure out the correct and best way to make this timeline. I will probably use photos in the timeline so I need to confirm getting access to all of the photos I am going to use, mainly areas in Eugene that are significant to my project. Who will I contact on the photo permission? Should I take the photos of these areas or gather them from online sources? What is easier? I am using data from ENG 250 last year and have a lot of information on this project from that. I may plan on adding onto the beyond toxic github created by students last year. Is that even possible? Do i need to reach out to them? Regarding my timeline, I want to make a story map. Should I use storymaps.com?
 
 ---
 # week 7
