@@ -90,9 +90,9 @@ How did West Eugene get to the Environmentally injustice place it is in today?
 - potential use for project: My use of this chapter is connecting the population impacts to enviormental impacts. The authors and researches of this chapter go into detail on why exactly the numbers connect and how it affects the population. As my research is on environmental justice and how it impacts lower income, poc neighborhoods, the data collected from this chapter can be used in my project to make sense of why these connections have such abig impact. 
 
 ### source 5 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Which Lives Matter in Reproductive Biomedicine? - University of Oregon, scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/27185/Russell_WhichLivesMatter.pdf?sequence=1. Accessed 6 May 2023. 
+- summary: Camisha Russell goes into the recent Black Lives Matter movement and how it brougt up a lot of issues deeper rooted in racism. During the Covid-19 pandemic the Black community saw a decrease in care for their community. Russell talks about the issues of racism in medicine and what steps are next to address the racism in medicine. 
+- potential use for project: Using this for my project would bring up a different point of view. I could use Russell's information on biomedicine and its concering issue with racism. This connects with my project because the issue of toxic waste living areas is connected to biomedicine being an issue with racism and people not addressing the issue and taking action. 
 
 ### source 6 annotation
 - citation: 
@@ -110,7 +110,7 @@ How did West Eugene get to the Environmentally injustice place it is in today?
 ### contribution
 *Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
 
-- respond here 
+- With this project I need to make sure I read all of my articles, books, and thesis's correctly and gather the information given in a correct way. At the end of the project I hope to create a interactive map/timeline showing Oregons history. For this I need to look into the kinglab.com website and figure out the correct and best way to make this timeline. I will probably use photos in the timeline so I need to confirm getting access to all of the photos I am going to use, mainly areas in Eugene that are significant to my project. Who will I contact on the photo permission? Should I take the photos of these areas or gather them from online sources? What is easier? I am using data from ENG 250 last year and have a lot of information on this project from that. I may plan on adding onto the beyond toxic github created by students last year. Is that even possible? Do i need to reach out to them? Regarding my timeline, I want to make a story map. Should I use storymaps.com?
 
 ### methods
 *What tools and methods will you use, and why are those the best technologies for your purposes?*
