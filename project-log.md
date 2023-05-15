@@ -95,37 +95,33 @@ How did West Eugene get to the Environmentally injustice place it is in today?
 - potential use for project: Using this for my project would bring up a different point of view. I could use Russell's information on biomedicine and its concering issue with racism. This connects with my project because the issue of toxic waste living areas is connected to biomedicine being an issue with racism and people not addressing the issue and taking action. 
 
 ### source 6 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Www.Batiwatch.Ch :: Home, batiwatch.net/files/3613/7883/2581/Lave_Seskin_1970_Air_pollution__human_health.pdf. Accessed 12 May 2023. 
+- summary: Lester B. Lave and Eugene P. Seskin go into the issue of air pollution and the connections and affects it has on deaths we see in the world. They started off by telling readers what the effects of air pollution are as they explain how much research has been done on the long-term effects of living and growing up in a polluted area. They bring in research that compares numbers of bronchitis, lung cancer, other cancers and pneumonia in polluted areas verus non polluted. They also bring up statistics on smokers and their health conditions. 
+- potential use for project: I decided to focus on air pollution in Eugene area. In this pdf the authors bring in many statistics that I can use to include in my research. They compare health risks and connect numbers to polluted areas and how many people are affected. As I focus on ai pollution in Eugene, looking at numbers all over the world will help my research. 
 
 ### source 7 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Pacheco, Christina M, et al. “Homes of Low-Income Minority Families with Asthmatic Children Have Increased Condition Issues.” Allergy and Asthma Proceedings, 2014, www.ncbi.nlm.nih.gov/pmc/articles/PMC4210655/. 
+- summary: This article is a mix of research from multiple doctors and how lower income families have higher risks for health conditions. They studied the numbers of asthma rates in black and latino households and how they are at higher risk compared to white households. They talk about the importance of healthy homes and how unhealthy living situations cause for greater risk of long term health conditions. They did a research project to gather their own data and screened almost 1500 families in order to gather data on the asthma risk factors for children in lower income families.
+- potential use for project: This helps my project because my entire research is on how lower income areas are more impacted by air pollution and at a greater risk for asthma compared to more suburban areas. I can use the research and numbers that these doctors found and compare the asthma rates in West Eugene. I am looking at how the numbers for asthma is higher for children in poc communities and this article gives me a lot of information on what I am researching. 
 
 ## environmental scan
 *The environmental scan situates your project within the existing scholarly research and articulates its contribution. Answer each of the following questions in about one well-developed paragraph. You may use bulleted lists to organize your thoughts, but please write in complete sentences.*
 
 ### contribution
-*Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
 
-- 
+- I will create an interactive map or timeline showing the numbers of health issues that people in West Eugene have experienced since the biotechnology Molecular Probe was opened in 1975. The gas that this specific company releases into the air is a common factor of making asthma rates go up and impacting peoples health based on the pollution it creates in the air. As I am focusing on this specifc company and how it ties into the asthma rates in West Eugene, I think that is what makes my research and this project different. Currently there is some research on the health risks in west Eugene but I think having a timeline or map showing how they are connected and focusing specfifcally on the Molecular Probe will bring attention to a specific polluter. I hope this helps call out a company and makes legislators look at the numbers of health issues in Eugene and how it is connected to this company. 
 
 ### methods
-*What tools and methods will you use, and why are those the best technologies for your purposes?*
 
-- respond here 
+- I have mostly used google scholar and UO libraries to find all my research so far. I plan to use the storymaps website to maybe create my timeline and eventually use kinglab.com. These are the best technologies I have used or plan to use so far because they help my project become what I want it to be in the end of my research. 
 
 ### stakeholders / audiences
-*For whom is your project intended: academics, members of the public, your institution, etc.? Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
 
-- respond here 
+- This project is intended for Oregon Public Health people. As air pollution is a big issue in Eugene, many people are currently trying to address the problem and bring the issue of enviormental justice to people higher up in Oregon. The goal is to make health legislators look at this project and the numbers and see how many residents are loosing their lives and getting serious health issues because of it. I hope to also reach the auidence of activists in Eugene, even beyond toxics project and hopes that this research will help and bring them numbers to reach legislators and get a law passed to keep polluted industries out of residental areas. 
 
 ### dependencies and resources
-*What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
-
-- With this project I need to make sure I read all of my articles, books, and thesis's correctly and gather the information given in a correct way. At the end of the project I hope to create a interactive map/timeline showing Oregons history. For this I need to look into the kinglab.com website and figure out the correct and best way to make this timeline. I will probably use photos in the timeline so I need to confirm getting access to all of the photos I am going to use, mainly areas in Eugene that are significant to my project. Who will I contact on the photo permission? Should I take the photos of these areas or gather them from online sources? What is easier? I am using data from ENG 250 last year and have a lot of information on this project from that. I may plan on adding onto the beyond toxic github created by students last year. Is that even possible? Do i need to reach out to them? Regarding my timeline, I want to make a story map. Should I use storymaps.com?
+ 
+- With this project I need to make sure I read all of my articles, books, and thesis's correctly and gather the information given in a correct way. At the end of the project I hope to create a interactive map/timeline showing Eugene's air pollution. I hope to make a timeline connecting asthma rates to the air pollution area in rural areas on Eugene. For this I need to look into the kinglab.com website and figure out the correct and best way to make this timeline. I will probably use photos in the timeline so I need to confirm getting access to all of the photos I am going to use, mainly areas in Eugene that are significant to my project. Who will I contact on the photo permission? Should I take the photos of these areas or gather them from online sources? What is easier? I am using data from ENG 250 last year and have a lot of information on this project from that. I may plan on adding onto the beyond toxic github created by students last year. Is that even possible? Do I need to reach out to them? Regarding my timeline, I want to make a story map. Should I use storymaps.com?
 
 ---
 # week 7
