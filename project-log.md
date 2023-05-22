@@ -126,7 +126,10 @@ How did West Eugene get to the Environmentally injustice place it is in today?
 ---
 # week 7
 ## notes
-- notes go here
+- To protect my data and source files from getting lost or corrupt my main goal is to add all of my data into two places to keep safe. So far all of my data has been uploaded into my github and is my main resource of data. As I continue this project and I begin to get more detailed, I want to make sure my files do not get ruined and I am now putting them in my google drive. I plan on putting my data sets into google drive on my desktop. I have downloaded gogole drive onto my desk top and anything I use for the project will be added into google drive along with continuing to add to my github. 
+- My main organization idea is to label my files by the date they are published. My project is researching Beyond Toxics and where the company started with and end goal of creating a better timeline giving researchers more source and credibility for the project. I plan on renaming files of resources that I am using by naming them a nickname for what the data is and the year it was published or reported. This is easier for me to look into research as I create my timeline, I can just pull from the time frame I am working on instead of going into every file. 
+- The work being backed up is my responsibility. The storage I am using for this project I hope will work later down the line for anyone to be able to access and making sure this data can be used in a couple years. 
+- Any photos I use or pulling data from Toxics right to know I want to make sure everything I am going to republish is copyrighted and that I have access to use. I plan to use github to be my main publisher for my timeline and using Knight Lab to create my timeline after putting together all of my data on google sheets. 
 
 ---
 # week 8
