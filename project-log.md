@@ -134,7 +134,7 @@ How did West Eugene get to the Environmentally injustice place it is in today?
 ---
 # week 8
 ## notes
-- notes go here
+- Giving acknowledgment to the founders of Beyond Toxics (Mary O’Brien, Anita Johnson, Michael Carrigan, Steve Johnson & others ) who I have gathered a lot of information from. And are the starters of the Beyond Toxics Volunteers that have impacted the project
 
 ---
 # week 9
