@@ -134,7 +134,20 @@ How did West Eugene get to the Environmentally injustice place it is in today?
 ---
 # week 8
 ## notes
-- Giving acknowledgment to the founders of Beyond Toxics (Mary O’Brien, Anita Johnson, Michael Carrigan, Steve Johnson & others ) who I have gathered a lot of information from. And are the starters of the Beyond Toxics Volunteers that have impacted the project
+
+Acknowledgment
+- Professor Burkert for helping me brainstorm this project and helping me get through brain freezes when I felt stuck with the project 
+- The library for giving me data to look into 
+- All ENG 470 students and faculty from the 2022 research project
+- The founders of Beyond Toxics (Mary O’Brien, Anita Johnson, Michael Carrigan, Steve Johnson & others ) who I have gathered a lot of information from. And are the starters of the Beyond Toxics Volunteers that have impacted the project
+
+HARMFUL CONTENT STATEMENT 
+Acknowledging that this project is based on and doing research on Kalapuyla land. Acknowledging that this subject and issue has impacted a lot of families and paying tribute to those that have been seriously impacted by this issue.
+
+License
+- All, if not most of the photos that I am using in my timeline are copyrighted to Beyond Toxics so I will have to credit them in my github. 
+- I am giving access to anyone to use my entire project without being copyrighted or having to get access from me. Anything that is no copyrighted and accessible to use I will have no requirment but if someone wants to use something from my timeline that is copyrighted, they must access the owners of the copyright which I will have listed. 
+
 
 ---
 # week 9
