@@ -39,4 +39,12 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 
 ## Credits and Acknowledgments
 
-This is where you'll acknowledge those to whom your project is indebted beyond your named collaborators and the sources on your bibliography.
+The process of this project could not have happened without many sources that I used for research. I would like to first give acknowledgment to the founders of Beyond Toxics (Mary O’Brien, Anita Johnson, Michael Carrigan, Steve Johnson & others ) who I have gathered a lot of information from. They are also the founders and do the work for Beyond Toxics. Without everyone who works for and volunteers for this project, I would have no project. I also would like to give acknowledgment to Professor Mattie Burkert who has helped and gotten me through all the steps to get my project to where it currently is. Lastly I would like to acknowledge the English 470 students from last spring term as well as the students from English 250 winter term for diving into this project and giving me inspiration. 
+
+As this project is going into the issues and impacts of toxic waste, many people have been affected. I would like to start by acknowledging that this subject and issue has impacted a lot of families and paying tribute to those that have been seriously impacted by this issue. This can be a sensitive topic for people and I hope this project impacts in a helpful way.
+
+As a student at University of Oregon and resident in Eugene, I would also like to acknowledge that this project is based on and doing research on Kalapuyla land. Kalapuyla people had their land taken from them by colonizers in the nineteenth centry and I would like to point out that all the research done for this project is based on their land and information is used from their land. 
+
+
+
+
