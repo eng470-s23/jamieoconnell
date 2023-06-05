@@ -18,6 +18,7 @@ Beyond Toxics is a leadership group based out of Eugene, Oregon that is a commun
 Beyond Toxics was founded in Eugene, Oregon in 1996 by Mary O’Brien, Anita Johnson, Michael Carrigan, and Steve Johnson. They came together as an environmental justice group to dedicate fighting for toxic use reduction and environmental justice. West Eugene neighborhoods and school districts have been mainly harmed by these toxins and they decided to come together and make a change. 
 
 **Process**
+
 *Research*
 - Looking into who and what Beyond Toxics is. I researched for information on them looking back to when and why they first started. Looking into significant times that the group has impacted the community. 
 *Development*
@@ -34,4 +35,8 @@ Beyond Toxics was founded in Eugene, Oregon in 1996 by Mary O’Brien, Anita Joh
 (West Eugene, Oregon Cancer analysis)
 
 **Thirteen Years of beyond toxics **
+
 ![The Impact of Beyond Toxics on Environmental Justice in Eugene](https://github.com/eng470-s23/jamieoconnell/assets/129902759/7ed1771a-6369-4adf-9832-037da8991eac)
+
+"This is an ongoing project investigating how the air pollutants being released affect the health of West Eugene’s community. West Eugene (97402 zip code) is home to an industrial corridor made up of 35 manufacturing companies. All together, 684,159 pounds of toxic chemicals were released into the environment of West Eugene in 2019--that’s 96% of all chemicals being released in the city of Eugene." Tromblay, K. (2021, July 7). Health problems in west eugene warrant a closer look. Beyond Toxics. https://www.beyondtoxics.org/blog/2020/08/health-problems-in-west-eugene-warrant-a-closer-look/
+
