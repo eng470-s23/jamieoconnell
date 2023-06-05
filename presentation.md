@@ -5,6 +5,7 @@ If you're curious how a Markdown file could function as an alternative to tradit
 # The Impact of Beyond Toxics on Environmental Justice in Eugene
 
 **Acknowledgments**
+
 I would like to start by acknowledging that this subject and issue has impacted a lot of families and acknowledging those that have been seriously impacted by this issue.
 
 The process of this project could not have happened without many sources that I used for research. I would like to first give acknowledgment to the founders of Beyond Toxics (Mary O’Brien, Anita Johnson, Michael Carrigan, Steve Johnson & others ) 
@@ -12,9 +13,11 @@ The process of this project could not have happened without many sources that I 
 As a student at the University of Oregon and a resident in Eugene, I would also like to acknowledge that this project is based on and doing research on Kalapuyla land.
 
 **Project Overview**
+
 Beyond Toxics is a leadership group based out of Eugene, Oregon that is a community-based environmental-justice movement group. As I was looking into their group I noticed there was not a clear form of information on their history and why it all started. For my project, I decided to research the group and how they have impacted Eugene, Oregon. 
 
 **Background**
+
 Beyond Toxics was founded in Eugene, Oregon in 1996 by Mary O’Brien, Anita Johnson, Michael Carrigan, and Steve Johnson. They came together as an environmental justice group to dedicate fighting for toxic use reduction and environmental justice. West Eugene neighborhoods and school districts have been mainly harmed by these toxins and they decided to come together and make a change. 
 
 **Process**
@@ -27,6 +30,7 @@ Beyond Toxics was founded in Eugene, Oregon in 1996 by Mary O’Brien, Anita Joh
 - For my final project, I am taking all of the research I have gathered from 1996 and creating a timeline on Knightlab showing Beyond Toxics over the last twenty-seven years. The timeline will be interactive and links, photos, and videos will be embedded for researchers. 
 
 **Statistics of West Eugene**
+
 - "After years of residents reporting chronic health problems and awful smells in their neighborhoods, Beyond Toxics began collecting information from both residents of West Eugene and other areas of the city to identify commonly reported health problems."
 (Tromblay, K. 2021, July 7)
 - "An estimated 696,526 pounds of toxic chemicals were emitted in West Eugene in 2020 alone, according to the city of Eugene Toxics Reporting Program."
