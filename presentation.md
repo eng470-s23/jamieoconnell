@@ -40,7 +40,8 @@ Beyond Toxics was founded in Eugene, Oregon in 1996 by Mary O’Brien, Anita Joh
 - "Evaluated 22 cancer types in 6 census tracts between 2000 - 2018."
 (West Eugene, Oregon Cancer analysis)
 
-**Thirteen Years of beyond toxics **
+**Thirteen Years of beyond toxics**
+
 
 ![The Impact of Beyond Toxics on Environmental Justice in Eugene](https://github.com/eng470-s23/jamieoconnell/assets/129902759/7ed1771a-6369-4adf-9832-037da8991eac)
 
