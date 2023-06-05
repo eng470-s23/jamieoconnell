@@ -24,8 +24,10 @@ Beyond Toxics was founded in Eugene, Oregon in 1996 by Mary O’Brien, Anita Joh
 
 *Research*
 - Looking into who and what Beyond Toxics is. I researched for information on them looking back to when and why they first started. Looking into significant times that the group has impacted the community. 
+
 *Development*
 - Getting data from the last twenty-seven years. Looking into what laws, petitions, and movements the group has started and either resulted in success or still developing. Finding information from Beyond Toxics and then researching outside of their website and news on the topic. Matching numbers with the years regarding toxins affect. 
+
 *Timeline*
 - For my final project, I am taking all of the research I have gathered from 1996 and creating a timeline on Knightlab showing Beyond Toxics over the last twenty-seven years. The timeline will be interactive and links, photos, and videos will be embedded for researchers. 
 
