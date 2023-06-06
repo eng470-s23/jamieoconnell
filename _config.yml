@@ -1,10 +1,10 @@
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/minima
 plugins:
 - jekyll-remote-theme 
 
 # Setup
-title:  "ENG 470 S23 Demo Site"             
+title:  "The impact of Beyond Toxics on Environmental Justice in Eugene"             
 tagline:             
 description:         
 url:     http://eng470-s23.github.io          
-baseurl:   /demo-site/            
+baseurl:   /jamieoconnell/            
