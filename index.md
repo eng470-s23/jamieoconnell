@@ -2,7 +2,9 @@ Hello World!
 
 If you're running across this site, it's part of a course at the University of Oregon. [Here's the syllabus](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
 
-Eugene began building a Hyundai and they were building it in a wetlands which was going to be releasing toxic chemicals into the air. They asked Hyundai to release which chemicals they would be releasing and they denied which resulted in getting 11,000 signatures on a Toxics Right-to-Know Reporting Law that would require not only Hyundai, but all of the industries that were using toxics within the Eugene city boundaries to report all of the toxics they took in, and which ones left.
+[project_log](/project-log.md)
+
+
 
 If you're a student in the class, the front page of your GitHub pages site will deploy from index.md. Put whatever content here you want to show up on your front page. Maybe that's your [white paper](white-paper.md) or your [presentation](presentation.md), or maybe you want to get fancy and embed your project here. 
 
