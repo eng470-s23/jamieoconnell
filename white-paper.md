@@ -16,9 +16,10 @@ Be sure to include access info for your project (or embedded content).
 
 It's very likely that elements of your pitch and/or environmental scan will be revised and incorporated here. 
 
-## Project Activities, Team, and Participants
+## Project Activities  Participants
 
 ## Project Outcomes
+- Presentation, Data sets, etc. (anything you have made) 
 
 ## Project Continuation and Long-Term Impact
 
