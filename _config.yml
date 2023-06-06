@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme 
 
 # Setup
-title:  "The impact of Beyond Toxics on Environmental Justice in Eugene"             
+title:  "The Impact of Beyond Toxics on Environmental Justice in Eugene"             
 tagline:             
 description:         
 url:     http://eng470-s23.github.io          
