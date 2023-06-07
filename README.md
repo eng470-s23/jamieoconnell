@@ -44,6 +44,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 3. Data was taken from Beyond Toxics website and Oregon Legislative website 
 4. Recommeded [citation](https://guides.lib.umich.edu/c.php?g=439304&p=2993299) for the data
 
