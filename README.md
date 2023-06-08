@@ -23,7 +23,7 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 6. Date of file creation and updates, and nature of those updates (YYYYMMDD format)
 
 ## Data Access & Sharing
-1. MIT License
+ MIT License
 
 Copyright (c) [2023] [JamieO'Connell]
 
@@ -45,8 +45,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-3. Data was taken from Beyond Toxics website and Oregon Legislative website 
-4. Recommeded [citation](https://guides.lib.umich.edu/c.php?g=439304&p=2993299) for the data
+ Data was taken from [Beyond Toxics website](https://www.beyondtoxics.org/) and [Oregon Legislative website](https://www.oregonlegislature.gov/)
+ 
+
 
 ## Methodological and Data-specific Information
 1. Description of methods for data collection and processing
