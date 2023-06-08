@@ -45,7 +45,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
- Data was taken from [Beyond Toxics website](https://www.beyondtoxics.org/) and [Oregon Legislative website](https://www.oregonlegislature.gov/)
+ Data was taken from [Beyond Toxics](https://www.beyondtoxics.org/) website and [Oregon Legislative](https://www.oregonlegislature.gov/)
+  website. 
  
 
 
