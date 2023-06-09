@@ -1,4 +1,4 @@
-**The Impact of Beyond Toxics on Environmental Justice in Eugene**
+# The Impact of Beyond Toxics on Environmental Justice in Eugene
 
 
 
