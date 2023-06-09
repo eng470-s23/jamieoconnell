@@ -5,6 +5,12 @@
 Hello! My name is Jamie O'Connell and for my project, I chose to research about Beyond Toxics. As I was researching the environmental justice group I was not able to find a clear timeline in one place that gives information on who they are and what they have done for Eugene as a community. I chose to create a written timeline as well as a interactive timleine to show what Beyond Toxics has done over the last twenty three years. Below I have given links to show how I put my project together, starting from week one of the terms until now. Each link will lead you to information on the project and eventually builds up to a page with all of the information I gathered, followed by a link to the timeline I created for those who enjoy visually learning. 
  
 
+## 1996
+Excavation of Hyundai discovered marine fossils 
+Eugene began building a Hyundai and they were building it in a wetlands which was going to be releasing toxic chemicals into the air. They asked Hyundai to release which chemicals they would be releasing and they denied which resulted in getting 11,000 signatures on a Toxics Right-to-Know Reporting Law that would require not only Hyundai, but all of the industries that were using toxics within the Eugene city boundaries to report all of the toxics they took in, and which ones left. Attached is a link of the transcript of the audio interview of Mary O'Brien, one of the founders, talking about the start of Beyond Toxics. 
+
+
+
 
 
 
