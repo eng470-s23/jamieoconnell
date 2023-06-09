@@ -10,7 +10,7 @@ Hello! My name is Jamie O'Connell and for my project, I chose to research about 
 
 [Data Management Plan](/data-management.md)
 
-[Timeline](/Timelinde.md)
+[Timeline](/Timeline.md)
 
 
 
