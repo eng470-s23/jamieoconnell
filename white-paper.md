@@ -62,6 +62,8 @@ KLCC |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  By&
 
 Jzatkows@uoregon.edu. “Announcing the West Eugene Toxic Tour!” Coalition Against Environmental Racism, 4 Apr. 2012, blogs.uoregon.edu/caer/2012/04/04/announcing-the-west-eugene-toxic-tour/. 
 
+
+
 “A Toxic Legacy: Environmental Justice in West Eugene - 12 Minutes.” YouTube, 4 Jan. 2013, www.youtube.com/watch?v=Rqr5AaI0U_o&amp;ab_channel=BeyondToxics. 
 
 
