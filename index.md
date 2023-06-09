@@ -7,7 +7,7 @@ Hello! My name is Jamie O'Connell and for my project, I chose to research about 
 
 ## 1996
 Excavation of Hyundai discovered marine fossils 
-Eugene began building a Hyundai and they were building it in a wetlands which was going to be releasing toxic chemicals into the air. They asked Hyundai to release which chemicals they would be releasing and they denied which resulted in getting 11,000 signatures on a Toxics Right-to-Know Reporting Law that would require not only Hyundai, but all of the industries that were using toxics within the Eugene city boundaries to report all of the toxics they took in, and which ones left. Attached is a link of the transcript of the audio interview of Mary O'Brien, one of the founders, talking about the start of Beyond Toxics. 
+Eugene began building a Hyundai and they were building it in a wetlands which was going to be releasing toxic chemicals into the air. They asked Hyundai to release which chemicals they would be releasing and they denied which resulted in getting 11,000 signatures on a Toxics Right-to-Know Reporting Law that would require not only Hyundai, but all of the industries that were using toxics within the Eugene city boundaries to report all of the toxics they took in, and which ones left. Attached is a [link](/Interviewtranscript.md) of the transcript of the audio interview of Mary O'Brien, one of the founders, talking about the start of Beyond Toxics. 
 
 
 
