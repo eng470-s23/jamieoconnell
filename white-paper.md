@@ -1,10 +1,4 @@
-# What's a White Paper?
 
-In digital humanities, it is common for project teams to publish a report of funded development activities after a grant cycle is completed. The following template is taken from the [instructions provided by the National Endowment for the Humanities](https://www.neh.gov/how-write-successful-white-paper-tips-odh) to recipients of Digital Humanities Advancement Grants.
-
----
-
-# White Paper Template
 
 ## Table of Contents
 
