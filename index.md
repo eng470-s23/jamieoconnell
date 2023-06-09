@@ -1,4 +1,5 @@
-Hello! My name is Jamie O'Connell and for my project I chose to research about Beyond Toxics. As I was researching the enviromental justice group I was not able to find a clear timeline in one place that gives information on who they are and what they have done for Eugene as a community. Below I have given links to show how I put my project together, starting from week one of the term until now. Each link will lead you to information on the project and eventually builds up to a page with all of the information I gathered, followed with a link to the timeline I created. 
+Hello! My name is Jamie O'Connell and for my project, I chose to research about Beyond Toxics. As I was researching the environmental justice group I was not able to find a clear timeline in one place that gives information on who they are and what they have done for Eugene as a community. Below I have given links to show how I put my project together, starting from week one of the terms until now. Each link will lead you to information on the project and eventually builds up to a page with all of the information I gathered, followed by a link to the timeline I created for those who enjoy visually learning.
+ 
 
 [project log](/project-log.md) 
 
