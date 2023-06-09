@@ -22,7 +22,7 @@ Excavation of Hyundai discovered marine fossils
 Eugene began building a Hyundai and they were building it in a wetlands which was going to be releasing toxic chemicals into the air. They asked Hyundai to release which chemicals they would be releasing and they denied which resulted in getting 11,000 signatures on a Toxics Right-to-Know Reporting Law that would require not only Hyundai, but all of the industries that were using toxics within the Eugene city boundaries to report all of the toxics they took in, and which ones left. Attached is a [link](/Interviewtranscript.md) of the transcript of the audio interview of Mary O'Brien, one of the founders, talking about the start of Beyond Toxics. 
 
 ## 1999
-Pesticide Use Reporting System: The reports must include the specific site where the pesticide was applied and detail the kind and amount of pesticides used. This was passed and created by Beyond Toxics in hopes to collect data on what chemicals are in nearby streams or rivers. 
+[Pesticide Use Reporting System](/2005_hb2152.intro.pdf): The reports must include the specific site where the pesticide was applied and detail the kind and amount of pesticides used. This was passed and created by Beyond Toxics in hopes to collect data on what chemicals are in nearby streams or rivers. 
 
 ## 2001 
 After this law was passed, the State Legislature, and Governor Kitzhaber, passed a law that said no other community could pass a law like this. Since this law did so well in Eugene and had good feedback, the idea of forming what was originally called the Oregon Toxics Alliance began by Mary O’Brien. Oregon Toxics Alliance formed by Mary O’Brien, Anita Johnson, Michael Carrigan, Steve Johnson & others 
@@ -52,13 +52,13 @@ Beyond Toxics organized the first Oregon Environmental Justice Bus Tour. The sec
 Beyond Toxics worked with Oregonians and the legislature to pass new laws regulating aerial sprays. 
 
 ## 2017 
-Eugene held its first ever Bee Count organized by Beyond Toxics, Walama Restoration Project, and with support from Oregon Department of Agriculture. The point of this is because of how important Bee's play a role in polluting plants. 
+Eugene held its first ever [Bee Count](PressRelease_7-10-17_1stAnnualBeeCount_BT_n_Walama_FINAL.pdf) organized by Beyond Toxics, Walama Restoration Project, and with support from Oregon Department of Agriculture. The point of this is because of how important Bee's play a role in polluting plants. 
 
 ## 2019
 Demanding agency compliance with fair, equitable and democratic practices. Beyond Toxins asked Lane Regional Air Protection Agency to schedule public hearings to make sure that those who are most impacted by air pollution are considered and listened to.  
 
 ## 2020 
-Beyond Toxics got chlorpyrifos to phase-out of being used which led to Oregon being the fourth nation to do so. 
+[Beyond Toxics](/BeyondToxicsAnnualReport_2020-2021.pdf) got chlorpyrifos to phase-out of being used which led to Oregon being the fourth nation to do so. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1oHtRzavlY7nV0gniEz0W9tW1KUyAiOdpBkA2oNcKz8A&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
