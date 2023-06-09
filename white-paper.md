@@ -6,9 +6,25 @@ In digital humanities, it is common for project teams to publish a report of fun
 
 # White Paper Template
 
-Not a bad idea to include a table of contents here with relative links to your section headers.
+## Table of Contents
 
-## Project Summary/Abstract (1 paragraph) 
+[White Paper](/white-paper.md)
+
+[Project Log](/project-log.md)
+
+[Data Management](/data-management.md)
+
+[License](/license.md)
+
+[Read Me](/README.MD)
+
+[Presentation](/presentation.md)
+
+[Index](/index.md)
+
+
+
+## Project Summary/Abstract 
 
 Beyond Toxics is an environmental justice group that started in Eugene, Oregon when a group of people came together to fight for the neighborhoods and families that toxins are affecting. As they have been a group since 1996 they have succeeded in getting multiple laws passed as well as making a huge impact on the community of Eugene. The goal of my project is for researchers to have one place to locate when they want to research who Beyond Toxics is. The [timeline](/Timeline.md) will walk researchers through the company over the last twenty-seven years and highlight their accomplishments.
 
