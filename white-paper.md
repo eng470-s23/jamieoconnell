@@ -10,7 +10,7 @@ Not a bad idea to include a table of contents here with relative links to your s
 
 ## Project Summary/Abstract (1 paragraph) 
 
-Be sure to include access info for your project (or embedded content).
+Beyond Toxics is an environmental justice group that started in Eugene, Oregon when a group of people came together to fight for the neighborhoods and families that toxins are affecting. As they have been a group since 1996 they have succeeded in getting multiple laws passed as well as making a huge impact on the community of Eugene. The goal of my project is for researchers to have one place to locate when they want to research who Beyond Toxics is. The timeline will walk researchers through the company over the last twenty-seven years and highlight their accomplishments
 
 ## Project Origins and Goals
 
