@@ -16,7 +16,7 @@ In digital humanities, it is common for project teams to publish a report of fun
 
 [License](/license.md)
 
-[Read Me](/README.MD)
+[Read Me](/README.md)
 
 [Presentation](/presentation.md)
 
