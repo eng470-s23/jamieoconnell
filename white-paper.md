@@ -48,7 +48,25 @@ In the long-term I hope this project is useful for those researching environment
 
 # Appendix 1: Bibliography
 
-This is where you can revise, update, and augment your annotated bib. Regardless of whether you keep the annotations, you should include a full bibliography of your sources. 
+“Community Right to Know (CR2K).” Oregon State Police : Community Right To Know (CR2K) : Office of the State Fire Marshal : State of Oregon, www.oregon.gov/osp/programs/sfm/pages/community-right-to-know.aspx. 
+
+House Bill 2181 - Oregon Legislative Assembly, www.oregonlegislature.gov/bills_laws/archivebills/2005_hb2181.intro.pdf. 
+
+“Cleaner Air Oregon.” Department of Environmental Quality : Cleaner Air Oregon : Cleaner Air Oregon : State of Oregon, www.oregon.gov/deq/aq/cao/Pages/default.aspx. 
+
+“NW Eugene Area Cancer Study.” Oregon Health Authority : NW Eugene Area Cancer Study : Environmental Health Assessment : State of Oregon, www.oregon.gov/oha/PH/HEALTHYENVIRONMENTS/TRACKINGASSESSMENT/ENVIRONMENTALHEALTHASSESSMENT/Pages/nweugenesite.aspx. 
+
+KLCC |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  By&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Brian Bull. “After 80 Years, Eugene’s J.H. Baxter Plant Shutters but Legal Entanglements Remain.” KLCC, 17 June 2022, www.klcc.org/2022-01-31/after-80-years-eugenes-j-h-baxter-plant-shutters-but-legal-entanglements-remain. 
+
+“Home.” Beyond Toxics, 9 June 2023, www.beyondtoxics.org/. 
+
+Jzatkows@uoregon.edu. “Announcing the West Eugene Toxic Tour!” Coalition Against Environmental Racism, 4 Apr. 2012, blogs.uoregon.edu/caer/2012/04/04/announcing-the-west-eugene-toxic-tour/. 
+
+“A Toxic Legacy: Environmental Justice in West Eugene - 12 Minutes.” YouTube, 4 Jan. 2013, www.youtube.com/watch?v=Rqr5AaI0U_o&amp;ab_channel=BeyondToxics. 
+
+
+
+
 
 
 
