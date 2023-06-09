@@ -10,7 +10,7 @@ Hello! My name is Jamie O'Connell and for my project, I chose to research about 
 
 [data management plan](/data-management.md)
 
-### Timeline
+# Timeline
  
 
 ## 1996
