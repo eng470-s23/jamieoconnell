@@ -1,5 +1,6 @@
 # The Impact of Beyond Toxics on Environmental Justice in Eugene
 
+![Photo of Oregon state sign in forest on main road](https://github.com/eng470-s23/jamieoconnell/assets/129902759/4317b761-fb7b-4095-adce-f38ea8b50329)
 
 
 Hello! My name is Jamie O'Connell and for my project, I chose to research about Beyond Toxics. As I was researching the environmental justice group I was not able to find a clear timeline in one place that gives information on who they are and what they have done for Eugene as a community. I chose to create a written timeline as well as a interactive timleine to show what Beyond Toxics has done over the last twenty three years. Below I have given links to show how I put my project together, starting from week one of the terms until now. Each link will lead you to information on the project and eventually builds up to a page with all of the information I gathered, followed by a link to the timeline I created for those who enjoy visually learning. 
@@ -11,6 +12,9 @@ Hello! My name is Jamie O'Connell and for my project, I chose to research about 
 [Data Management Plan](/data-management.md)
 
 [Timeline](/Timeline.md)
+
+[Bibliography with Data annotated](/white-paper.md)
+
 
 
 
