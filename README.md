@@ -51,14 +51,7 @@ SOFTWARE.
 
 
 ## Methodological and Data-specific Information
-1. Description of methods for data collection and processing
-2. Project-wide definitions of codes or symbols used to note questionable and missing data 
-3. Project-wide variables list
-    - Name:
-    - Description:
-    - Value Labels:
-4. Units of measurement
-6. Geographic information
+ Description of methods for data collection and processing: I did research on Google Scholar and UO Libriaries by using the key words Beyond Toxics, Enviornmental Justice, Eugene Oregon and West Eugene. As I found data I saved them into a google document and added them into my google drive on my desk top. As my data was collected I went through and got different data from different places and lowered down my sources and what I added into the timeline. 
 
 ## Credits and Acknowledgments
 
