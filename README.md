@@ -19,8 +19,8 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 2. Dataset file name(s) and extension(s)
 3. Project description/abstract/keywords: Climate Change, Eugene, Beyond Toxics, Oregon, Enviornmental Justice
 4. Authors and collaborators, including ORCID IDs and contact information
-5. Dates of Data Collection (YYYYMMDD format)
-6. Date of file creation and updates, and nature of those updates (YYYYMMDD format)
+5. Dates of Data Collection (04/10/2023-06/11/2023)
+6. Date of file creation and updates, and nature of those updates (06/08/2023)
 
 ## Data Access & Sharing
  MIT License
